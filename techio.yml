@@ -8,3 +8,7 @@ projects:
     runner:
       name: techio/node-npm-runner
       version: latest
+title: Node.js Project
+plan:
+- title: apprendre
+  statement: markdowns/intro.md
