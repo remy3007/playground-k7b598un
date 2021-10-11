@@ -1,14 +1,12 @@
-title: Node.js Project
-plan:
+plans: 
 - title: Welcome
   statement: markdowns/welcome.md
+- title: apprendre
+  statement: markdowns/intro.md
 projects:
   nodejs:
     root: /nodejs-project
     runner:
       name: techio/node-npm-runner
       version: latest
-title: Node.js Project
-plan:
-- title: apprendre
-  statement: markdowns/intro.md
+
